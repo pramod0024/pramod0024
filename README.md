@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramod Jadhav </h1>
 
-Current Web UI Developer at TechM with 2+ years of experience in the JavaScript technologies. Super nerd who loves JavaScript
+Current Web UI Developer at TechM with 5+ years of experience in the JavaScript technologies. Super nerd who loves JavaScript
 & its frameworks, libraries and enjoys to customize all of the development environment.
 ## I'm an Indian 🇮🇳, A Learner, JavaScript Developer, and a friend!🙌
 
